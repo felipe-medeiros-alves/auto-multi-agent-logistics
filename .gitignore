@@ -147,6 +147,9 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Local mock DB
+data/shipping.db
+
 # Environments
 .env
 .envrc
